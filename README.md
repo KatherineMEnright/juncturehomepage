@@ -7,7 +7,7 @@
 
 #### Essay Option 1 {href=https://www.juncture-digital.org/KatherineMEnright/speciesstories/essay-new/}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_-_lavatory_tower03b.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Berthe_Hoola_van_Nooten48.jpg)
 
 This option uses the new editor
 
