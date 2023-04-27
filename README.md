@@ -6,7 +6,7 @@
 
 ### Stories {.cards}
 
-#### Essay Option 1 {href=https://www.juncture-digital.org/KatherineMEnright/essays/}
+#### Essay Option 1 {href=https://www.juncture-digital.org/KatherineMEnright/speciesstories/essay-new/}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_-_lavatory_tower03b.jpg)
 
