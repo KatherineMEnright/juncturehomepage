@@ -1,7 +1,7 @@
-<param ve-config 
-       title="Essay Title"
-       author="Author"
-       banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg">
+.ve-header "Species Stories" wc:Sunflower.jpg "Linking the Digital Humanities to Biodiversity History in Singapore and Southeast Asia" pct:10,25,80,60 center sticky
+    - [Home](/)
+    - [About](/about)
+    - [Authors](/authors)
        
 ### Stories {.cards}
 
