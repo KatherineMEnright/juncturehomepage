@@ -20,4 +20,4 @@ nav:
 - label: Authors
   icon: fas fa-pen-fancy
   action: load-page
-  path: /authors.md
+  path: /authors
