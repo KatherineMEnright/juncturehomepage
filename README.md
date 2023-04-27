@@ -1,4 +1,6 @@
-.ve-header "Species Stories" wc:Sunflower.jpg "Cultural & Environmental Histories of Naturalised Species" pct:10,25,80,60 center sticky
+.ve-header "Essay Title" wc:Sunflower.jpg "Essay subtitle" pct:10,25,80,60 center sticky
+    - [Home](/)
+    - [About](/about)
  
 ### Stories {.cards}
 
