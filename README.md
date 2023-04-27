@@ -3,8 +3,6 @@
     - [About](/about)
     - [Authors](/authors)
     
- # Home
-
 ### Stories {.cards}
 
 #### Essay Option 1 {href=https://www.juncture-digital.org/KatherineMEnright/speciesstories/essay-new/}
