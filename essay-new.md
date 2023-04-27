@@ -1,5 +1,5 @@
 .ve-header "Mangosteen" src:https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg "Author" pct:10,25,80,60 center sticky
-    - [Home](https://www.juncture-digital.org/KatherineMEnright/speciesstories)
+    - [Home](/)
     - [About](/about)
 
 ##About the Essay
