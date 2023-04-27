@@ -1,5 +1,5 @@
 .ve-header "Species Stories" wc:Sunflower.jpg "Linking the Digital Humanities to Biodiversity History in Singapore and Southeast Asia" pct:10,25,80,60 center sticky
-    - [Home](/)
+    - [Home](/https://www.juncture-digital.org/KatherineMEnright/juncturehomepage/home/)
     - [About](/about)
     
  # Home
