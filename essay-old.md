@@ -1,7 +1,7 @@
-.ve-header "Mangosteen" src:https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg "Author" pct:10,25,80,60 center sticky
-    - [Home](/)
-    - [About](/about)
-    - [Authors](/authors)
+<param ve-config 
+       title="Essay Title"
+       author="Author"
+       banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg">
        
 ## This essay is about the Mangosteen
        
