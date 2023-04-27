@@ -18,6 +18,6 @@ nav:
   action: view-markdown
 
 - label: Authors
-  icon: https://fontawesome.com/v5/icons/pen-fancy?f=classic&s=solid
+  icon: fas fa-pen-fancy
   action: load-page
-  path: /authors
+  path: /authors.md
