@@ -1,8 +1,19 @@
-# Welcome to Juncture
+.ve-header "Species Stories" wc:Sunflower.jpg "Linking the Digital Humanities to Biodiversity History in Singapore and Southeast Asia" pct:10,25,80,60 center sticky
+    - [Home](/)
+    - [About](/about)
+    
+ # Home
 
- **Juncture** is a free-to-use, open source framework for converting simple text files into an engaging visual essay. A visual essay is an interactive and responsive web page that augments a text narrative with visual elements to provide depth and context.
+### Stories {.cards}
 
-With Juncture you can create a single essay or build a full website consisting of multiple visual essays with navigation, site info pages, contact form, logo, and other simple customizations.
+#### Essay Option 1 {href=https://www.juncture-digital.org/KatherineMEnright/essays/}
 
-More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
-abc
+![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_-_lavatory_tower03b.jpg)
+
+This option uses the new editor
+
+#### Essay Option 2 {href=https://www.juncture-digital.org/KatherineMEnright/Juncture-Tutorial/}
+
+![](https://iiif.juncture-digital.org/thumbnail/wc:Augustine_Abbey.jpg)
+
+This option uses the old editor
