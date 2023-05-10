@@ -1,4 +1,4 @@
-.ve-header "Species Stories" src:https://raw.githubusercontent.com/KatherineMEnright/speciesstories/main/media/banner.jpg "Cultural and Environmental Histories of Naturalised Species in Singapore and Southeast Asia" pct:10,25,80,60 center sticky 
+.ve-header "Species Stories" src:https://raw.githubusercontent.com/KatherineMEnright/speciesstories/main/media/banner.jpg "Cultural and Environmental Histories of Naturalised Species in Singapore and Southeast Asia" center sticky 
     - [Home](/)
     - [About](/about)
     - [Authors](/authors) 
