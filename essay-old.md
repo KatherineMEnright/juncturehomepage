@@ -16,7 +16,7 @@ You can find the wikidata IDs by searching for proper nouns (including relevant 
        
 You can use this within a sentence. For example: The <span eid="Q170662">Mangosteen</span> is a non-native fruit found in Singapore.
 <param ve-image 
-       url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
+       manifest="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        label="Mangosteen Photograph" 
        description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection."
        license="public domain">
