@@ -8,10 +8,7 @@
 *This makes things italics*. 
 
 This is how you add a footnote. [^1]
-<param ve-image 
-       manifest="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
-       url="Mangosteen Photograph" 
-       description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
+<param ve-image title="Roasted Coffee Beans" url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Roasted_coffee_beans.jpg">
 
 [This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
 <param ve-image 
