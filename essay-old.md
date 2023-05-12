@@ -4,10 +4,16 @@
        banner="media/banner.jpg"
        layout="vertical">
        
-## This essay is about the Mangosteen
+## This is a quick Markdown tutorial
+### This makes a 3rd-level heading
+*This makes things italics*
+This is how you add a footnote [^1]
+[This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
+This is how you add a mouse-over information panel from Wiki data: <span eid="Q170662">Mangosteen</span>
+You can find the wikidata IDs by searching for proper nouns (including relevant background information) [here](https://www.wikidata.org/wiki/Wikidata:Main_Page). The ID is the series of digits following the letter Q.
        
-The <span eid="Q170662">Mangosteen</span> is a non-native fruit found in Singapore. [^1]
-the <span eid="Q1148004">*Aedes aegypti*</span>
+The <span eid="Q170662">Mangosteen</span> is a non-native fruit found in Singapore.
+
 <param ve-image 
        url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        label="Mangosteen Photograph" 
@@ -39,4 +45,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: Citation
+[^1]: Citation. Make sure you include the colon or this won't work!
