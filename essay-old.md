@@ -10,7 +10,7 @@
 This is how you add a footnote. [^1]
 <param ve-image 
        manifest="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
-       label="Mangosteen Photograph" 
+       url="Mangosteen Photograph" 
        description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
 
 [This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
