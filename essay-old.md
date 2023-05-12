@@ -1,11 +1,10 @@
 <param ve-config 
        title="Essay Title"
        author="Author"
-       banner="media/banner.jpg"
+       banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        layout="vertical">
        
-## This is a quick Markdown tutorial
-### This makes a 3rd-level heading
+## This is a quick Markdown tutorial. Two hashes precede a heading
 *This makes things italics*. 
 
 This is how you add a footnote. [^1]
@@ -15,8 +14,7 @@ This is how you add a footnote. [^1]
 This is how you add a mouse-over information panel from Wiki data: <span eid="Q170662">Mangosteen</span>
 You can find the wikidata IDs by searching for proper nouns (including relevant background information) [here](https://www.wikidata.org/wiki/Wikidata:Main_Page). The ID is the series of digits following the letter Q.
        
-The <span eid="Q170662">Mangosteen</span> is a non-native fruit found in Singapore.
-
+You can use this within a sentence. For example: The <span eid="Q170662">Mangosteen</span> is a non-native fruit found in Singapore.
 <param ve-image 
        url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        label="Mangosteen Photograph" 
@@ -24,7 +22,6 @@ The <span eid="Q170662">Mangosteen</span> is a non-native fruit found in Singapo
        license="public domain">
        
 Marianne North painted this painting of a 'Singapore monkey' amongst mangosteen fruits in 1875.
-
 <param ve-image 
        url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_577-001.jpg"
        label="Flowers and Fruit of the Mangosteen, and a Singapore Monkey" 
