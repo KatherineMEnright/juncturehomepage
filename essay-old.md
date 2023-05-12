@@ -18,10 +18,16 @@ You can use this within a sentence. For example: The <span eid="Q170662">Mangost
 <param ve-image 
        manifest="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        label="Mangosteen Photograph" 
-       description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection."
-       license="public domain">
+       description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
        
 Marianne North painted this painting of a 'Singapore monkey' amongst mangosteen fruits in 1875.
+<param ve-image
+       title="Image comparison of the canopy of a dragon tree (_Dracaena draco_) with a classical Greek depiction of the dragon Ladon."
+       url="https://free.iiifhosting.com/iiif/7e103f8b67bc1ce1be0a738a6a34265de93fe18ad5978f48c076da1da1fbf636/info.json"
+       curtain="true"
+       fit="contain"
+       ref="1" >
+       
 <param ve-image 
        url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_577-001.jpg"
        label="Flowers and Fruit of the Mangosteen, and a Singapore Monkey" 
