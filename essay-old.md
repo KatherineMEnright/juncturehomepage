@@ -6,9 +6,12 @@
        
 ## This is a quick Markdown tutorial
 ### This makes a 3rd-level heading
-*This makes things italics*
-This is how you add a footnote [^1]
+*This makes things italics*. 
+
+This is how you add a footnote. [^1]
+
 [This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
+
 This is how you add a mouse-over information panel from Wiki data: <span eid="Q170662">Mangosteen</span>
 You can find the wikidata IDs by searching for proper nouns (including relevant background information) [here](https://www.wikidata.org/wiki/Wikidata:Main_Page). The ID is the series of digits following the letter Q.
        
