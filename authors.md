@@ -1,4 +1,4 @@
-.ve-header "Biodiversity Stories" wc:Sunflower.jpg "Cultural and Environmental Histories of Introduced Species in Singapore and Southeast Asia" pct:10,25,80,60 center sticky
+.ve-header "Biodiversity Stories" src:https://raw.githubusercontent.com/KatherineMEnright/speciesstories/main/media/new-banner.jpg  "Cultural and Environmental Histories of Introduced Species in Singapore and Southeast Asia" pct:10,25,80,60 center sticky
     - [Home](/)
     - [About](/about)
     - [Authors](/authors)
