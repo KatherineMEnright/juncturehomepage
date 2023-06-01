@@ -17,7 +17,7 @@
 ![](https://mediateca.inah.gob.mx/adore-djatoka//resolver?rft_id=https%3A%2F%2Fmediateca.inah.gob.mx%2Frepositorio%2Fislandora%2Fobject%2Fcodice%253A897%2Fdatastream%2FJP2%2Fview%3Ftoken%3D71fa3c5704caeb703cb4a83afbeb285a2537cf9bf069e25506ec30ab61dc0769&url_ver=Z39.88-2004&svc_id=info%3Alanl-repo%2Fsvc%2FgetRegion&svc_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajpeg2000&svc.format=image%2Fjpeg&svc.level=4&svc.rotate=0)
 
 "Pápalo: Lost in Translation" 
-<br><br><br><br>**Max D. López Toledano**
+<br><br><br><br><br>**Max D. López Toledano**
 
 #### Betel-Nut Palm (_Areca catechu_ and _Piper betle_ L.) {href=https://www.juncture-digital.org/joycewho1/betelnutessay}
 
