@@ -4,7 +4,7 @@
     - [Authors](/authors) 
 ### Stories {.cards}
 
-#### Sacred Fig (_Ficus religiosa_) {href=https://www.juncture-digital.org/GitGittyHubbity/Sacred_fig}
+Sacred Fig (_Ficus religiosa_) {href=https://www.juncture-digital.org/GitGittyHubbity/Sacred_fig}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MET_DP159094.jpg/1504px-MET_DP159094.jpg?20170324205903)
 
