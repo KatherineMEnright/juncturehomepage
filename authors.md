@@ -31,7 +31,7 @@ Shi Wen is a student at Yale-NUS college.
 
 ![](media/Max-author-photo.jpeg)
 
-Max D. López Toledano (they/she) did their undergraduate studies in Anthropology at Yale-NUS College. Their research interests are broad, including sports, environmental anthropology, and STS, though queer and decolonial perspectives are always part of her work. Max is also a football player and a long-distance runner.
+Max(they/she) did their undergraduate studies in Anthropology at Yale-NUS College. Their research interests are broad, including sports, environmental anthropology, and STS, though queer and decolonial perspectives are always part of her work. Max is also a football player and a long-distance runner.
 
 ####  Yeo Hui Qing
 
