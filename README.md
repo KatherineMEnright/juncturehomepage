@@ -32,3 +32,10 @@
 
 "Jaguar Cichlid: Beauty Pageant, Tropical Predator" 
 <br><br><br>**Max D. López Toledano**
+
+#### *Aedes aegypti* {href=https://www.juncture-digital.org/huiqingyeooo/Ae_aegypti}
+
+![](https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg)
+
+"*Aedes aegypti*: Not All Black and White"
+<br><br> Yeo Huiqing
