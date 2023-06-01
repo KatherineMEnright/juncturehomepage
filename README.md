@@ -28,5 +28,6 @@
 #### Jaguar Cichlid (*Parachromis managuensis*) {href=https://www.juncture-digital.org/maximwabx/Jaguar}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Parachromis_managuensis_2012_G1.jpg/1600px-Parachromis_managuensis_2012_G1.jpg?20120311175105)
+
 "Jaguar Cichlid: Beauty Pageant, Tropical Predator" 
 <br>**Max D. López Toledano**
