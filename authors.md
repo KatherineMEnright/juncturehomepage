@@ -30,6 +30,7 @@ Shi Wen is a student at Yale-NUS college.
 ####  Max D. López Toledano
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Berthe_Hoola_van_Nooten48.jpg)
+Max D. López Toledano (they/she) did their undergraduate studies in Anthropology at Yale-NUS College. Their research interests are broad, including sports, environmental anthropology, and STS, though queer and decolonial perspectives are always part of her work. Max is also a football player and a long-distance runner.
 
 ####  Yeo Hui Qing
 
