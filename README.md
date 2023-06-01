@@ -4,7 +4,7 @@
     - [Authors](/authors) 
 ### Stories {.cards}
 
-Sacred Fig (_Ficus religiosa_) {href=https://www.juncture-digital.org/GitGittyHubbity/Sacred_fig}
+#### Sacred Fig (_Ficus religiosa_) {href=https://www.juncture-digital.org/GitGittyHubbity/Sacred_fig}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MET_DP159094.jpg/1504px-MET_DP159094.jpg?20170324205903)
 
@@ -25,3 +25,8 @@ Sacred Fig (_Ficus religiosa_) {href=https://www.juncture-digital.org/GitGittyHu
 "Masticatory, Medicinal & More: The “Betel-Nut Palm” in Singapore and Southeast Asia" 
 <br>**Joyce Hu**
 
+#### Jaguar Cichlid (*Parachromis managuensis*) {href=https://www.juncture-digital.org/maximwabx/Jaguar}
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Parachromis_managuensis_2012_G1.jpg/1600px-Parachromis_managuensis_2012_G1.jpg?20120311175105)
+"Jaguar Cichlid: Beauty Pageant, Tropical Predator" 
+<br>**Max D. López Toledano**
