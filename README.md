@@ -1,17 +1,17 @@
-.ve-header "Species Stories" src:https://raw.githubusercontent.com/KatherineMEnright/speciesstories/main/media/new-banner.jpg "Cultural and Environmental Histories of Naturalised Species in Singapore and Southeast Asia" full sticky
+.ve-header "Biodiversity Stories" src:https://raw.githubusercontent.com/KatherineMEnright/speciesstories/main/media/new-banner.jpg "Cultural and Environmental Histories of Introduced Species in Singapore and Southeast Asia" full sticky
     - [Home](/)
     - [About](/about)
     - [Authors](/authors) 
 ### Stories {.cards}
 
-#### Essay Option 1 {href=https://www.juncture-digital.org/KatherineMEnright/speciesstories/essay-new/}
+#### Sacred Fig (*Ficus religiosa*) {href=https://www.juncture-digital.org/GitGittyHubbity/Sacred_fig}
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Berthe_Hoola_van_Nooten48.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MET_DP159094.jpg/1504px-MET_DP159094.jpg?20170324205903)
 
-This option uses the new editor
+"Religion’s Living Roots: The Sacred _Ficus religiosa_" by Foo Shi Wen
 
-#### Essay Option 2 {href=https://www.juncture-digital.org/KatherineMEnright/speciesstories/essay-old}
+#### Pápalo (*Porophyllum ruderale*) {href=https://www.juncture-digital.org/maximwabx/Porophyllum-Ruderale}
 
-![](https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg)
+![](https://mediateca.inah.gob.mx/adore-djatoka//resolver?rft_id=https%3A%2F%2Fmediateca.inah.gob.mx%2Frepositorio%2Fislandora%2Fobject%2Fcodice%253A897%2Fdatastream%2FJP2%2Fview%3Ftoken%3D71fa3c5704caeb703cb4a83afbeb285a2537cf9bf069e25506ec30ab61dc0769&url_ver=Z39.88-2004&svc_id=info%3Alanl-repo%2Fsvc%2FgetRegion&svc_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajpeg2000&svc.format=image%2Fjpeg&svc.level=4&svc.rotate=0)
 
-This option uses the old editor
+"Pápalo: Lost in Translation" by Max D. López Toledano
