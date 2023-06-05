@@ -37,6 +37,8 @@ Max (they/she) did their undergraduate studies in Anthropology at Yale-NUS Colle
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Berthe_Hoola_van_Nooten48.jpg)
 
+Yeo Huiqing is a student research assistant under the ‘Linking the Digital Humanities to Biodiversity History in Singapore and Southeast Asia’ project at Yale-NUS. She has a PhD in Life Sciences from the National University of Singapore, and her research focuses on biodiversity and evolution of mosquitoes.
+
 ####  Yoon Sun Woo
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Berthe_Hoola_van_Nooten48.jpg)
