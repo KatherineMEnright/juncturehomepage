@@ -40,6 +40,14 @@
 "*Aedes aegypti* : Not All Black and White"
 <br><br><br><br><br> **Yeo Huiqing**
 
+#### Guava (*Psidium guajava*) {href=https://www.juncture-digital.org/dgurses/guava/}
+
+![](https://www.roots.gov.sg/CollectionImages/1083699.jpg)
+"Guava: An Exciting Delicacy across Southeast Asian Cultures"
+<br><br> **Dünya Gürses**
+
+
+
 .ve-footer
     - Powered by: [![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
     - Supported by: [![Yale-NUS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yale-NUS_College_logo.svg/800px-Yale-NUS_College_logo.svg.png)](https://www.yale-nus.edu.sg/)
