@@ -45,7 +45,7 @@
 ![](https://www.roots.gov.sg/CollectionImages/1083699.jpg)
 
 "Guava: An Exciting Delicacy across Southeast Asian Cultures"
-<br><br> **Dünya Gürses**
+<br><br><br><br>**Dünya Gürses**
 
 
 
