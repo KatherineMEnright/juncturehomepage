@@ -19,6 +19,12 @@
 "Masticatory, Medicinal & More: The “Betel-Nut Palm” in Singapore and Southeast Asia" 
 <br>**Joyce Hu**
 
+#### Blue Pea (*Clitoria ternatea*) {href=https://www.juncture-digital.org/sunwooyoon01/bluepea}
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flower-clitoria-ternatea.png/816px-Flower-clitoria-ternatea.png?20120525102736)
+
+"Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
+<br><br> **Sun Woo Yoon**
 #### Sacred Fig (_Ficus religiosa_) {href=https://www.juncture-digital.org/GitGittyHubbity/Sacred_fig}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MET_DP159094.jpg/1504px-MET_DP159094.jpg?20170324205903)
