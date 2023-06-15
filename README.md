@@ -65,4 +65,6 @@
 .ve-footer
     - Powered by: [![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
     - Supported by: [![Yale-NUS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yale-NUS_College_logo.svg/800px-Yale-NUS_College_logo.svg.png)](https://www.yale-nus.edu.sg/)
+    [![NUS Libraries Logo](https://sbdb.nus.edu.sg/images/NUSCL.png)](https://blog.nus.edu.sg/linus/about-nus-libraries/)
+   
 
