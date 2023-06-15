@@ -39,7 +39,7 @@
 "Tapioca: Despised or Delicacy?"
 <br><br><br><br> **Jody Lim**
 
-#### [Jaguar Cichlid (*Parachromis managuensis*)] (./jaguar-cichlid.md)!
+#### Jaguar Cichlid (*Parachromis managuensis*){href=https://www.juncture-digital.org/KatherineMEnright/speciesstories/jaguar-cichlid}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Parachromis_managuensis_2012_G1.jpg/1600px-Parachromis_managuensis_2012_G1.jpg?20120311175105)
 
