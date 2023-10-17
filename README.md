@@ -16,7 +16,7 @@
 ####
 <h4>
     <a href="https://www.juncture-digital.org/joycewho1/betelnutessay">
-        <b> Betel-Nut Palm (<em> Areca catechu </em> and <em> Piper betle </em> L.) </b>
+        <b> Betel-Nut Palm (<em>Areca catechu </em> and <em> Piper betle </em> L.) </b>
     </a>
 </h4>
 
