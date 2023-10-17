@@ -5,6 +5,7 @@
    
 ### {.cards}
 
+
 #### *Aedes aegypti* {href=https://www.juncture-digital.org/huiqingyeooo/Ae_aegypti}
 
 ![](https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg)
@@ -12,7 +13,11 @@
 "*Aedes aegypti* : Not All Black and White"
 <br><br><br><br><br> **Yeo Huiqing**
 
-#### Betel-Nut Palm (_Areca catechu_ and _Piper betle_ L.) {href=https://www.juncture-digital.org/joycewho1/betelnutessay}
+<h3>
+    <a href="https://www.juncture-digital.org/joycewho1/betelnutessay">
+        Betel-Nut Palm <em> Areca catechu </em> and <em> Piper betle </em> L.
+    </a>
+</h3>
 
 ![](https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg)
 
