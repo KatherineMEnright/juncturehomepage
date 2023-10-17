@@ -14,11 +14,11 @@
 <br><br><br><br><br> **Yeo Huiqing**
 
 ####
-<h4>
+<p class="title">
     <a href="https://www.juncture-digital.org/joycewho1/betelnutessay">
         <b> Betel-Nut Palm (<em>Areca catechu </em> and <em> Piper betle </em> L.) </b>
     </a>
-</h4>
+</p>
 
 ![](https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg)
 
